@@ -1,4 +1,4 @@
-package assignment4;
+
 import java.io.*;
 import java.util.*;
 
@@ -419,13 +419,7 @@ public class CourseList
 	 */
 	public String toString()
 	{
-		
 		CourseNode p=head;
-//		for (int i=0; i<this.size(); i++)
-//		{
-//			System.out.println("Course at index ==> " + i + "= " + p);
-//			p=p.next;
-//		}
 		System.out.println("HEAD \n=> " + p);
 		return (" ");
 	}
