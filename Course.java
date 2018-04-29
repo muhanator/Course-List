@@ -1,11 +1,6 @@
-package assignment4;
+
 import java.io.*;
 import java.util.Scanner;
-
-//----------------------------------------------------
-//Assignment 4
-//Written by: Muhammad Saad Mujtaba (ID: 40043156)
-//----------------------------------------------------
 
 /** 
  * @author Muhammad Saad Mujtaba
