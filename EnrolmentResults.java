@@ -1,4 +1,4 @@
-package assignment4;
+
 import java.io.*;
 import java.util.*;
 
@@ -162,21 +162,7 @@ public class EnrolmentResults
 				System.out.println(s);
 			}
 			
-			//use the fine method to find an address to the node
-			//find has privacy since it is public 
 			
-			//if you do not find the prerequisite see if it is the corecquiste
-			//2 arraylists one for corecquisite and 1 for prerecquisite use the contains to see if the course is there
-			
-			//go to the course object from the linked list by looping through it to find the requested course
-			//and grab the corecquisites and prerecquisites
-			
-			//you ask for comp 228, you get the prerecquites and co recquisites from the linked list
-			//check if the prereq and coreqs are in the array list
-			
-			//you go through the requested courses array list one at a time
-			//you find the coreqs and the prereqs of that class
-			//you check if those coreqs and prereqs are present in completed courses array list
 			System.out.println();
 			
 			for (String s: requestedCourses)
